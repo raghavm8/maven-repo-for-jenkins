@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-    <h4>This is about page</h4>
+    <h4>This is service page</h4>
     <a href="index.jsp">index page</a>
 </body>
 </html>
